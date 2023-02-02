@@ -30,4 +30,4 @@ Example body: <br />
 ```
 2 drinks with topping and 1 drink without topping. <br />
 
-Note: Drinks are pre-created. You can find insert commands in resources/data.sql <br />
+Note: Drinks and toppings are pre-created. You can find insert commands in resources/data.sql <br />
