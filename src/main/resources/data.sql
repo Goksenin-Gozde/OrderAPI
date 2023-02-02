@@ -1,0 +1,8 @@
+INSERT INTO DRINKS(id, name, price) VALUES (1, 'Coffe', 12.00)
+INSERT INTO DRINKS(id, name, price) VALUES (2, 'Latte', 15.00)
+INSERT INTO DRINKS(id, name, price) VALUES (3, 'Mocha', 18.00)
+INSERT INTO DRINKS(id, name, price) VALUES (4, 'Tea', 9.00)
+INSERT INTO TOPPINGS(id, name, price) VALUES (5, 'Milk', 6.00)
+INSERT INTO TOPPINGS(id, name, price) VALUES (6, 'Hazelnut Syrup', 9.00)
+INSERT INTO TOPPINGS(id, name, price) VALUES (7, 'Chocolate Souce', 15.00)
+INSERT INTO TOPPINGS(id, name, price) VALUES (8, 'Lemon', 6.00)
